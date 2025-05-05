@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GreetingApp</string>
+    <string name="enter_name">Введіть ваше ім\'я</string>
+    <string name="go_to_greeting">Перейти до привітання</string>
+    <string name="greeting_message">Вітаємо, %s!</string>
+    <string name="back_button">Повернутися</string>
+</resources>

@@ -1,0 +1,35 @@
+Android generated files
+
+*.apk *.ap_ *.aab *.dex *.class
+
+Gradle files
+
+.gradle/ build/ !gradle/wrapper/gradle-wrapper.jar !gradle/wrapper/gradle-wrapper.properties gradlew gradlew.bat
+
+Local configuration files
+
+*.iml .idea/ local.properties
+
+Log files
+
+*.log
+
+Android Studio captures folder
+
+captures/
+
+Keystores
+
+*.jks *.keystore
+
+Temporary files
+
+*.tmp *.bak *.swp *~.nib
+
+Dependency directories
+
+bin/ gen/
+
+Miscellaneous
+
+.DS_Store Thumbs.db
